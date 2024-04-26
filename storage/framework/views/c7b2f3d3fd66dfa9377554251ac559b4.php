@@ -1,0 +1,1 @@
+<?php /**PATH D:\POO\Sistem\resources\views/layouts/theme/app.blade.php ENDPATH**/ ?>
